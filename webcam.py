@@ -1,5 +1,5 @@
-import numpy as np #pip install numpy
-import cv2 #pip install opencv-python
+import numpy as np  #pip install numpy
+import cv2  #pip install opencv-python
 
 cap = cv2.VideoCapture(0)
 
