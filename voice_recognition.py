@@ -1,4 +1,5 @@
 import speech_recognition as sr
+# instalar biblioteca pyaudio (nao precisa do import)
 
 def ouvir_microfone():
     microfone = sr.Recognizer()
